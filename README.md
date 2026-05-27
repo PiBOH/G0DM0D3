@@ -19,6 +19,7 @@ G0DM0D3 is a fully open-source, privacy-respecting, multi-model chat interface t
 ![License](https://img.shields.io/badge/license-AGPL--3.0-green)
 ![Models](https://img.shields.io/badge/models-55%2B%20via%20OpenRouter-blue)
 ![Privacy](https://img.shields.io/badge/telemetry-anon%20%2B%20opt--out-brightgreen)
+[![Vercel Deploy](https://deploy-status-badge-generator.vercel.app/vercel/g0dm0d3-ten)](https://g0dm0d3-ten.vercel.app/)
 
 ## ✨ Features
 
